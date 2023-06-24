@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kenura-r-gunarathna/count.svg)
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
@@ -65,4 +65,5 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
