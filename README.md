@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </div>
 
-<div align="center">
+<div align="center" style="padding-top:30px;">
   <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" alt=""/>
 </div>
 
