@@ -67,5 +67,5 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/kenura-r-gunarathna/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/kenura-r-gunarathna/github-stats/blob/master/generated/languages.svg)
