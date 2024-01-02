@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Kenura R. Gunarathna</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Kenura R. Gunarathna from Sri Lanka<br><br>- 🔭 I’m working as Inventor<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I to test out my new inventions</p>
+<p align="left">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px"/><br><br>- 🔭 I’m working as Inventor<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I to test out my new inventions</p>
 
 ###
 
