@@ -1,3 +1,11 @@
+<h1 align="center">Kenura R. Gunarathna</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" alt=""/>
+</div>
+
+<br>
+
 <div align="center">
   <a href="mailto:kenuragunarathna@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
@@ -12,14 +20,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">Kenura R. Gunarathna</h1>
 
 ###
 
