@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
 </a>
 
-### 👩‍💻 About Me
+### About Me
 
 ###
 
@@ -22,7 +22,7 @@ Hey There,
 
 - I would like to introduce mysqlf as an inventor
 - I'm experienced in web develpment, and currently learning to create cross platform apps and electronics.
-- I'm very enthusiastic to support the open source comminity, contact me if any help needed.
+- I'm very enthusiastic to support the open source community, contact me if any help needed.
 
 ### Language expert at
 
