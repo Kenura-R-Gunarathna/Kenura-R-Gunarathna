@@ -1,6 +1,8 @@
 # Kenura R. Gunarathna
 
+<span>
 <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" height="20" alt="profile views"/>
+</span>
 <a href="mailto:kenuragunarathna@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" />
 </a>
