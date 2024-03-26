@@ -38,6 +38,8 @@ Hey There,
 - Typecript (Beginer level)
 - C++ (Beginer level)
 - JSON (Expert level)
+- Python (Good understanding)
+- GO (Good understanding)
 
 ### Frameworks expert at
 
@@ -50,6 +52,8 @@ Hey There,
 - Express.js
 - Next.js
 - Nest.js
+- Flask
+- Django
 
 ### Tools expert at
 
