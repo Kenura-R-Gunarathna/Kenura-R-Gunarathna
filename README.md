@@ -22,7 +22,7 @@
 
 Hey There,
 
-- I would like to introduce mysqlf as an inventor
+- I would like to introduce my self as an inventor
 - I'm experienced in web develpment, and currently learning to create cross platform apps and electronics.
 - I'm very enthusiastic to support the open source community, contact me if any help needed.
 
