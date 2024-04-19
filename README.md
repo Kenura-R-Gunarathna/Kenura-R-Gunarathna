@@ -1,4 +1,4 @@
-# Kenura R. Gunarathna
+# Kenura R.Gunarathna
 
 <span>
 <img src="https://komarev.com/ghpvc/?username=kenura-r-gunarathna&style=flat-square&color=blue" height="20" alt="profile views"/>
