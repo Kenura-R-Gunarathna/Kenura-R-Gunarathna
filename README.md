@@ -54,6 +54,7 @@ Hey There,
 - Nest.js
 - Flask
 - Django
+- Gin
 
 ### Tools expert at
 
