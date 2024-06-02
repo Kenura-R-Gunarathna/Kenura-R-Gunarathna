@@ -44,6 +44,7 @@ Hey There,
 ### Frameworks expert at
 
 - Laravel
+- Jigsaw By Tighten
 - React
 - Karch
 - Tailwind CSS
@@ -52,6 +53,7 @@ Hey There,
 - Express.js
 - Next.js
 - Nest.js
+- Astro.js
 - Flask
 - Django
 - Gin
