@@ -40,6 +40,7 @@ Hey There,
 - JSON (Expert level)
 - Python (Good understanding)
 - GO (Good understanding)
+- C (Good understanding)
 
 ### Frameworks expert at
 
