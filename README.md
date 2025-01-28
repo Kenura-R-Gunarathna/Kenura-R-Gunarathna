@@ -38,10 +38,12 @@ Hey There,
 - Typecript (Beginer level)
 - C++ (Beginer level)
 - JSON (Expert level)
-- Python (Good understanding)
+- Python (Expert level)
 - GO (Good understanding)
-- C (Good understanding)
-
+- C (Expert level)
+- Java (Beginer level)
+- Kotlin (Beginer level)
+  
 ### Frameworks expert at
 
 - Laravel
@@ -74,11 +76,14 @@ Hey There,
 
 - VSCode
 - Arduino
+- PyCharm
+- Neovim
+- Notepad++
 
 #### 2. Operating Systems
 
-- Linux
-- Windows
+- Linux (Debian/Ubuntu/Mint)
+- Windows (XP/7/8/8.1/10/11)
 
 #### 3. Version control systems
 
@@ -102,3 +107,5 @@ Hey There,
 - Cpanel
 - Hostinger
 - DigitalOcean
+- Godaddy
+- Hostgater
