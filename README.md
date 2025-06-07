@@ -30,19 +30,19 @@ Hey There,
 
 - HTML (Expert level)
 - CSS (Expert level, but not in animations)
-- Javascript ( and ES6 or ES7) (Expert level)
+- Javascript (ES6/ES7) (Expert level)
 - Jquery (Expert level)
 - PHP (Expert level)
-- SQL (Good understanding)
+- SQL (Expert level)
 - Mongo (Good understanding)
 - Typecript (Beginer level)
-- C++ (Beginer level)
+- C++ (Good understanding)
 - JSON (Expert level)
 - Python (Expert level)
-- GO (Good understanding)
+- GO (Expert level)
 - C (Expert level)
 - Java (Beginer level)
-- Kotlin (Beginer level)
+- Kotlin (Expert level)
   
 ### Frameworks expert at
 
@@ -74,6 +74,10 @@ Hey There,
 
 #### 1. Code Editors Management
 
+- Android Studio
+- IntelliJ
+- GoLand
+- RustRover
 - VSCode
 - Arduino
 - PyCharm
